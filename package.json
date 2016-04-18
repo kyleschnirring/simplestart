@@ -1,0 +1,25 @@
+{
+  "name": "simplestart",
+  "version": "1.0.0",
+  "description": "Gets a simple node project up and going",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple",
+    "start",
+    "node",
+    "project"
+  ],
+  "preferGlobal": "true",
+  "directories": {
+    "bin": {
+      "simplestart": "bin/simplestart.js"
+  },
+  "author": "Kyle Schnirring <kyleschnirring@gmail.com> (http://schnirring.net)",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "^0.6.0"
+  }
+}
