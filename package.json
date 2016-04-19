@@ -14,12 +14,12 @@
   ],
   "preferGlobal": "true",
   "directories": {
-    "bin": {
-      "simplestart": "bin/simplestart.js"
+    "bin": "./bin"
   },
   "author": "Kyle Schnirring <kyleschnirring@gmail.com> (http://schnirring.net)",
   "license": "MIT",
   "dependencies": {
+    "prompt": "^1.0.0",
     "shelljs": "^0.6.0"
   }
 }
