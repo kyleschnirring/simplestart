@@ -3,7 +3,7 @@ Simplestart.js is a global package that allows you to get a project up and runni
 
 ##Installation
 ```javascript
-$ npm install -g simplestart.js
+$ npm install -g simplestart
 ```
 
 ##Usage
