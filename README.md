@@ -7,5 +7,8 @@ $ npm install -g simplestart.js
 ```
 
 ##Usage
-First type in simplestart.js into the command prompt like so.
+1.First type in simplestart.js into the command prompt like so.
 ![alt tag](https://raw.githubusercontent.com/kyleschnirring/simplestart/master/images/startsimple.png)
+
+2.Next simplestart will ask you what you would like to call your project and if you'd like to set up Git. Type "y" or "n" and hit          enter.
+![alt tag](https://raw.githubusercontent.com/kyleschnirring/simplestart/master/images/projectGit.png)
